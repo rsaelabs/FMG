@@ -1,2 +1,0 @@
-# FMG
-Fixed Mesh Gateway
